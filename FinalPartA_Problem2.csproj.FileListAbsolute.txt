@@ -1,0 +1,40 @@
+E:\2ND year\ECE 2310\SydneyCadyECE2310FinalPartA\FinalPartA_Problem2\FinalPartA_Problem2\bin\Debug\FinalPartA_Problem2.exe.config
+E:\2ND year\ECE 2310\SydneyCadyECE2310FinalPartA\FinalPartA_Problem2\FinalPartA_Problem2\bin\Debug\FinalPartA_Problem2.exe
+E:\2ND year\ECE 2310\SydneyCadyECE2310FinalPartA\FinalPartA_Problem2\FinalPartA_Problem2\bin\Debug\FinalPartA_Problem2.pdb
+E:\2ND year\ECE 2310\SydneyCadyECE2310FinalPartA\FinalPartA_Problem2\FinalPartA_Problem2\obj\Debug\FinalPartA_Problem2.csprojAssemblyReference.cache
+E:\2ND year\ECE 2310\SydneyCadyECE2310FinalPartA\FinalPartA_Problem2\FinalPartA_Problem2\obj\Debug\FinalPartA_Problem2.Form1.resources
+E:\2ND year\ECE 2310\SydneyCadyECE2310FinalPartA\FinalPartA_Problem2\FinalPartA_Problem2\obj\Debug\FinalPartA_Problem2.Properties.Resources.resources
+E:\2ND year\ECE 2310\SydneyCadyECE2310FinalPartA\FinalPartA_Problem2\FinalPartA_Problem2\obj\Debug\FinalPartA_Problem2.csproj.GenerateResource.cache
+E:\2ND year\ECE 2310\SydneyCadyECE2310FinalPartA\FinalPartA_Problem2\FinalPartA_Problem2\obj\Debug\FinalPartA_Problem2.csproj.CoreCompileInputs.cache
+E:\2ND year\ECE 2310\SydneyCadyECE2310FinalPartA\FinalPartA_Problem2\FinalPartA_Problem2\obj\Debug\FinalPartA_Problem2.exe
+E:\2ND year\ECE 2310\SydneyCadyECE2310FinalPartA\FinalPartA_Problem2\FinalPartA_Problem2\obj\Debug\FinalPartA_Problem2.pdb
+C:\Users\ymalik\Downloads\FinalPartA_Problem2 (1)\FinalPartA_Problem2\FinalPartA_Problem2\bin\Debug\FinalPartA_Problem2.exe.config
+C:\Users\ymalik\Downloads\FinalPartA_Problem2 (1)\FinalPartA_Problem2\FinalPartA_Problem2\bin\Debug\FinalPartA_Problem2.exe
+C:\Users\ymalik\Downloads\FinalPartA_Problem2 (1)\FinalPartA_Problem2\FinalPartA_Problem2\bin\Debug\FinalPartA_Problem2.pdb
+C:\Users\ymalik\Downloads\FinalPartA_Problem2 (1)\FinalPartA_Problem2\FinalPartA_Problem2\obj\Debug\FinalPartA_Problem2.csprojAssemblyReference.cache
+C:\Users\ymalik\Downloads\FinalPartA_Problem2 (1)\FinalPartA_Problem2\FinalPartA_Problem2\obj\Debug\FinalPartA_Problem2.Form1.resources
+C:\Users\ymalik\Downloads\FinalPartA_Problem2 (1)\FinalPartA_Problem2\FinalPartA_Problem2\obj\Debug\FinalPartA_Problem2.Properties.Resources.resources
+C:\Users\ymalik\Downloads\FinalPartA_Problem2 (1)\FinalPartA_Problem2\FinalPartA_Problem2\obj\Debug\FinalPartA_Problem2.csproj.GenerateResource.cache
+C:\Users\ymalik\Downloads\FinalPartA_Problem2 (1)\FinalPartA_Problem2\FinalPartA_Problem2\obj\Debug\FinalPartA_Problem2.csproj.CoreCompileInputs.cache
+C:\Users\ymalik\Downloads\FinalPartA_Problem2 (1)\FinalPartA_Problem2\FinalPartA_Problem2\obj\Debug\FinalPartA_Problem2.exe
+C:\Users\ymalik\Downloads\FinalPartA_Problem2 (1)\FinalPartA_Problem2\FinalPartA_Problem2\obj\Debug\FinalPartA_Problem2.pdb
+C:\Users\ymalik\Desktop\YashikaMalik_ECE2310_Final_Part_A\Q2\FinalPartA_Problem2\bin\Debug\FinalPartA_Problem2.exe.config
+C:\Users\ymalik\Desktop\YashikaMalik_ECE2310_Final_Part_A\Q2\FinalPartA_Problem2\bin\Debug\FinalPartA_Problem2.exe
+C:\Users\ymalik\Desktop\YashikaMalik_ECE2310_Final_Part_A\Q2\FinalPartA_Problem2\bin\Debug\FinalPartA_Problem2.pdb
+C:\Users\ymalik\Desktop\YashikaMalik_ECE2310_Final_Part_A\Q2\FinalPartA_Problem2\obj\Debug\FinalPartA_Problem2.csprojAssemblyReference.cache
+C:\Users\ymalik\Desktop\YashikaMalik_ECE2310_Final_Part_A\Q2\FinalPartA_Problem2\obj\Debug\FinalPartA_Problem2.Form1.resources
+C:\Users\ymalik\Desktop\YashikaMalik_ECE2310_Final_Part_A\Q2\FinalPartA_Problem2\obj\Debug\FinalPartA_Problem2.Properties.Resources.resources
+C:\Users\ymalik\Desktop\YashikaMalik_ECE2310_Final_Part_A\Q2\FinalPartA_Problem2\obj\Debug\FinalPartA_Problem2.csproj.GenerateResource.cache
+C:\Users\ymalik\Desktop\YashikaMalik_ECE2310_Final_Part_A\Q2\FinalPartA_Problem2\obj\Debug\FinalPartA_Problem2.csproj.CoreCompileInputs.cache
+C:\Users\ymalik\Desktop\YashikaMalik_ECE2310_Final_Part_A\Q2\FinalPartA_Problem2\obj\Debug\FinalPartA_Problem2.exe
+C:\Users\ymalik\Desktop\YashikaMalik_ECE2310_Final_Part_A\Q2\FinalPartA_Problem2\obj\Debug\FinalPartA_Problem2.pdb
+C:\Users\natal\Documents\Coding Projects\Q2\FinalPartA_Problem2\bin\Debug\FinalPartA_Problem2.exe.config
+C:\Users\natal\Documents\Coding Projects\Q2\FinalPartA_Problem2\bin\Debug\FinalPartA_Problem2.exe
+C:\Users\natal\Documents\Coding Projects\Q2\FinalPartA_Problem2\bin\Debug\FinalPartA_Problem2.pdb
+C:\Users\natal\Documents\Coding Projects\Q2\FinalPartA_Problem2\obj\Debug\FinalPartA_Problem2.csprojAssemblyReference.cache
+C:\Users\natal\Documents\Coding Projects\Q2\FinalPartA_Problem2\obj\Debug\FinalPartA_Problem2.Form1.resources
+C:\Users\natal\Documents\Coding Projects\Q2\FinalPartA_Problem2\obj\Debug\FinalPartA_Problem2.Properties.Resources.resources
+C:\Users\natal\Documents\Coding Projects\Q2\FinalPartA_Problem2\obj\Debug\FinalPartA_Problem2.csproj.GenerateResource.cache
+C:\Users\natal\Documents\Coding Projects\Q2\FinalPartA_Problem2\obj\Debug\FinalPartA_Problem2.csproj.CoreCompileInputs.cache
+C:\Users\natal\Documents\Coding Projects\Q2\FinalPartA_Problem2\obj\Debug\FinalPartA_Problem2.exe
+C:\Users\natal\Documents\Coding Projects\Q2\FinalPartA_Problem2\obj\Debug\FinalPartA_Problem2.pdb

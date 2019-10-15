@@ -1,0 +1,20 @@
+C:\Users\natal\Documents\Coding Projects\Q2\FinalPartA_Problem2\bin\Debug\FinalPartA_Problem2.exe.config
+C:\Users\natal\Documents\Coding Projects\Q2\FinalPartA_Problem2\bin\Debug\FinalPartA_Problem2.exe
+C:\Users\natal\Documents\Coding Projects\Q2\FinalPartA_Problem2\bin\Debug\FinalPartA_Problem2.pdb
+C:\Users\natal\Documents\Coding Projects\Q2\FinalPartA_Problem2\obj\Debug\FinalPartANo2.csprojAssemblyReference.cache
+C:\Users\natal\Documents\Coding Projects\Q2\FinalPartA_Problem2\obj\Debug\FinalPartA_Problem2.Form1.resources
+C:\Users\natal\Documents\Coding Projects\Q2\FinalPartA_Problem2\obj\Debug\FinalPartA_Problem2.Properties.Resources.resources
+C:\Users\natal\Documents\Coding Projects\Q2\FinalPartA_Problem2\obj\Debug\FinalPartANo2.csproj.GenerateResource.cache
+C:\Users\natal\Documents\Coding Projects\Q2\FinalPartA_Problem2\obj\Debug\FinalPartANo2.csproj.CoreCompileInputs.cache
+C:\Users\natal\Documents\Coding Projects\Q2\FinalPartA_Problem2\obj\Debug\FinalPartA_Problem2.exe
+C:\Users\natal\Documents\Coding Projects\Q2\FinalPartA_Problem2\obj\Debug\FinalPartA_Problem2.pdb
+C:\Users\natal\Documents\Coding Projects\Final Part A Number 2\Final Part A Number 2\Final Part A Number 2\FinalPartANo2\bin\Debug\FinalPartA_Problem2.exe.config
+C:\Users\natal\Documents\Coding Projects\Final Part A Number 2\Final Part A Number 2\Final Part A Number 2\FinalPartANo2\bin\Debug\FinalPartA_Problem2.exe
+C:\Users\natal\Documents\Coding Projects\Final Part A Number 2\Final Part A Number 2\Final Part A Number 2\FinalPartANo2\bin\Debug\FinalPartA_Problem2.pdb
+C:\Users\natal\Documents\Coding Projects\Final Part A Number 2\Final Part A Number 2\Final Part A Number 2\FinalPartANo2\obj\Debug\FinalPartANo2.csprojAssemblyReference.cache
+C:\Users\natal\Documents\Coding Projects\Final Part A Number 2\Final Part A Number 2\Final Part A Number 2\FinalPartANo2\obj\Debug\FinalPartA_Problem2.Form1.resources
+C:\Users\natal\Documents\Coding Projects\Final Part A Number 2\Final Part A Number 2\Final Part A Number 2\FinalPartANo2\obj\Debug\FinalPartA_Problem2.Properties.Resources.resources
+C:\Users\natal\Documents\Coding Projects\Final Part A Number 2\Final Part A Number 2\Final Part A Number 2\FinalPartANo2\obj\Debug\FinalPartANo2.csproj.GenerateResource.cache
+C:\Users\natal\Documents\Coding Projects\Final Part A Number 2\Final Part A Number 2\Final Part A Number 2\FinalPartANo2\obj\Debug\FinalPartANo2.csproj.CoreCompileInputs.cache
+C:\Users\natal\Documents\Coding Projects\Final Part A Number 2\Final Part A Number 2\Final Part A Number 2\FinalPartANo2\obj\Debug\FinalPartA_Problem2.exe
+C:\Users\natal\Documents\Coding Projects\Final Part A Number 2\Final Part A Number 2\Final Part A Number 2\FinalPartANo2\obj\Debug\FinalPartA_Problem2.pdb
